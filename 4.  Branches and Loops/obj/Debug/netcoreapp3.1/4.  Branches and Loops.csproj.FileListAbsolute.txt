@@ -1,0 +1,13 @@
+C:\Users\my pc\source\repos\C#\4.  Branches and Loops\bin\Debug\netcoreapp3.1\4.  Branches and Loops.exe
+C:\Users\my pc\source\repos\C#\4.  Branches and Loops\bin\Debug\netcoreapp3.1\4.  Branches and Loops.deps.json
+C:\Users\my pc\source\repos\C#\4.  Branches and Loops\bin\Debug\netcoreapp3.1\4.  Branches and Loops.runtimeconfig.json
+C:\Users\my pc\source\repos\C#\4.  Branches and Loops\bin\Debug\netcoreapp3.1\4.  Branches and Loops.runtimeconfig.dev.json
+C:\Users\my pc\source\repos\C#\4.  Branches and Loops\bin\Debug\netcoreapp3.1\4.  Branches and Loops.dll
+C:\Users\my pc\source\repos\C#\4.  Branches and Loops\bin\Debug\netcoreapp3.1\4.  Branches and Loops.pdb
+C:\Users\my pc\source\repos\C#\4.  Branches and Loops\obj\Debug\netcoreapp3.1\4.  Branches and Loops.csprojAssemblyReference.cache
+C:\Users\my pc\source\repos\C#\4.  Branches and Loops\obj\Debug\netcoreapp3.1\4.  Branches and Loops.csproj.CoreCompileInputs.cache
+C:\Users\my pc\source\repos\C#\4.  Branches and Loops\obj\Debug\netcoreapp3.1\4.  Branches and Loops.AssemblyInfoInputs.cache
+C:\Users\my pc\source\repos\C#\4.  Branches and Loops\obj\Debug\netcoreapp3.1\4.  Branches and Loops.AssemblyInfo.cs
+C:\Users\my pc\source\repos\C#\4.  Branches and Loops\obj\Debug\netcoreapp3.1\4.  Branches and Loops.dll
+C:\Users\my pc\source\repos\C#\4.  Branches and Loops\obj\Debug\netcoreapp3.1\4.  Branches and Loops.pdb
+C:\Users\my pc\source\repos\C#\4.  Branches and Loops\obj\Debug\netcoreapp3.1\4.  Branches and Loops.genruntimeconfig.cache
